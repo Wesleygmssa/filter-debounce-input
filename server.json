@@ -4,36 +4,59 @@
           "id": 1,
           "name": "Fábio Junior Oliveira",
           "user": "fabio.oliveira",
-          "email": "fabio@inema"
+          "email": "fabio@inema",
+          "area": "ASTEC"
         }, {
             "id": 2,
             "name": "wesley Junior Oliveira",
             "user": "wesley.oliveira",
-            "email": "wesley@inema"
+            "email": "wesley@inema",
+            "area": "ASTEC"
 
           }, {
             "id": 3,
             "name": "pati Junior Oliveira",
             "user": "pati.oliveira",
-            "email": "pati@inema"
+            "email": "pati@inema",
+            "area": "ASTEC"
 
           }, {
             "id": 4,
             "name": "pati2 Junior Oliveira",
             "user": "pati2.oliveira",
-             "email": "pati2@inema"
+             "email": "pati2@inema",
+             "area": "ASTEC"
 
           }, {
             "id": 5,
             "name": "ana Junior Oliveira",
             "user": "ana.oliveira",
-            "email": "ana@inema"
+            "email": "ana@inema",
+            "area": "ASTEC"
 
           }, {
             "id": 6,
             "name": "Gabriel Junior Oliveira",
             "user": "gabirel.oliveira",
-            "email": "fabgabirelio@inema"
+            "email": "fabgabirelio@inema",
+            "area": "ASTEC"
+
+
+          }, {
+            "id": 7,
+            "name": "Wesley guerra Oliveira",
+            "user": "Wesley.oliveira",
+            "email": "Wesley@inema",
+            "area": "ASTEC"
+
+
+          }, {
+            "id": 8,
+            "name": "guerra Junior Oliveira",
+            "user": "guerra.oliveira",
+            "email": "guerra@inema",
+            "area": "ASTEC"
+
 
           }
      
